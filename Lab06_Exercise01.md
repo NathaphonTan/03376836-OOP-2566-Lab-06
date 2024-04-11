@@ -41,5 +41,7 @@ dotnet run --project Lab06_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="6 1 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-06/assets/144870609/ddee13a0-988f-4f26-bcf9-72b7dfb913da">
 
 7. อธิบายสิ่งที่พบในการทดลอง
+โปรแกรมจะแสดงผล Hello foem Enter your name here สร้าง Person ที่มี Field name Method Getname() เพื่อคืนค่า Hello from พร้อมกับค่า name ที่กำหนด 
