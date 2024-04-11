@@ -41,13 +41,16 @@ dotnet build  Lab06_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3 
-
-5. Run project โดยการใช้คำสั่ง
+แก้ไข student.name เป็น Student.name
+แก้ไข static public เป็น public startic
+6. Run project โดยการใช้คำสั่ง
 
 ```cmd
 dotnet run --project Lab06_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="6 3 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-06/assets/144870609/d70593ea-4457-4fda-a84e-1eae96a9a562">
 
 7. อธิบายสิ่งที่พบในการทดลอง
+โปรแกรมจะแสดง Hello Enter your name here,Hello from Enter student's name
